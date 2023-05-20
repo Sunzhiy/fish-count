@@ -1,0 +1,53 @@
+body {
+    background-image: url("fishing.jpg");
+    background-size: cover;
+    font-family: Georgia, serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.Ocean {
+    background: none;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid royalblue;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:aqua;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:aquamarine;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background:steelblue;
+}
+
+#save-btn {
+    background:dodgerblue;
+}
+
+#save-el {
+    font-weight: bold;
+    color:blue
+}
+
